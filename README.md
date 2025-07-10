@@ -60,10 +60,3 @@ actividad-1/
 1. **Selección y descripción del API**: Documentación clara del API elegido
 2. **Automatización en Playwright**: Script funcional con validaciones
 3. **Evidencia de implementación**: Capturas, videos y reportes
-
-## Evidencias Requeridas
-- [ ] Video explicativo con voz
-- [ ] Screenshots de ejecución
-- [ ] Reporte HTML de Playwright
-- [ ] Código fuente documentado
-- [ ] Documentación del API

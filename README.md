@@ -48,9 +48,8 @@ actividad-1/
 ├── playwright.config.js
 ├── tests/
 │   ├── api/
-│   │   └── jsonplaceholder.spec.js
-│   └── utils/
-│       └── api-helpers.js
+│       └── jsonplaceholder.spec.js
+
 ├── docs/
 │   └── API_DOCUMENTATION.md
 └── test-results/
